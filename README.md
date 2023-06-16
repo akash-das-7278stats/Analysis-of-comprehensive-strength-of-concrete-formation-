@@ -1,2 +1,2 @@
-# Analysis-of-comprehensive-strength-of-concrete-formation-
-Comprehensive strength of concrete formation 
+# Analysis of comprehensive strength of concrete formation for different input factors
+The primary objective of this study is to examine and evaluate the relationship between the Compressive Strength of concrete and seven specific input variables. Through the use of regression analysis, we will construct a model that effectively captures this relationship. We will continuously refine and enhance the model based on the validity of the assumptions underlying the analysis. Once the model is adequately developed, we will apply it to the available data, allowing us to draw meaningful insights and make informed conclusions about how the input variables influence the Compressive Strength of concrete.
